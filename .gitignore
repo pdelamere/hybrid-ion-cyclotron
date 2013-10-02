@@ -1,0 +1,7 @@
+hybrid
+*.mp4
+*.dat
+*~
+*.o
+tmp/
+#*#
